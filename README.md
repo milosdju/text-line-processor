@@ -3,7 +3,7 @@
 Java project that can be used as preprocessing unit for OCR application. This particular module detects lines of scanned texts in the image format. From external libraries, OpenCV is used for image processing.
 
 ## How it started
-One of the exercises for Machine Learning summer school was to develop application that counts number of text lines in scanned document. That includes to build functionality for detecting text lines, which later should be used as part of advanced OCR application that converts scanned text files into digital format. Here I am going to work more on this module, make it more accurate in first place (currently, for some small test suite, it shoot in 4/10 cases with **exactly** number of lines, in 4/10 with 90% accuracy, in 2/10 missed it totaly)
+One of the exercises for Machine Learning summer school was to develop application that counts number of text lines in scanned document. That includes to build functionality for detecting text lines, which later should be used as part of advanced OCR application that converts scanned text files into digital format. Here I am going to work more on this module, make it more accurate in first place (currently, for some small test suite, it shoot in 4/10 cases with **exactly** number of lines, in 4/10 with 90% accuracy, in 2/10 missed it totally)
 
 ## How to use it?
 * Run java project (either from IDE or as JAR file)
